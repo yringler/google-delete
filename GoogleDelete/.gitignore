@@ -1,0 +1,6 @@
+bin/
+obj/
+token.json/
+token.json
+.vs/
+*.user
